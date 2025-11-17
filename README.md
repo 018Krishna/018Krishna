@@ -1,22 +1,16 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Cloud+Enthusiast;Creative+Designer;Believe+in+Yourself+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;ML+Enthusiast;Logical+Designer;Believe+in+Yourself+✨" />
 </p>
 
----
-
-# 👁️ Visitors Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=018Krishna&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
 
 ---
 
 # 🔥 About Me  
 - 🌱 MERN + AI/ML Enthusiast  
 - 💬 Ask me about **React, Node, MongoDB, C++, UI/UX**  
-- 🚀 Building smart & scalable apps  
+- 🚀 Problem Solver   
 - ✨ Believe in Yourself  
 
 ---
@@ -88,6 +82,12 @@ Figma • Adobe • Canva • After Effects
 </p>
 
 ---
+
+# 👁️ Visitors Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=018Krishna&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
+
 
 <h3 align="center">✨ Believe in Yourself — You Are Unstoppable ✨</h3>
 
