@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishna</h1>
+<h1 align="center">Hi 👋, I'm Krishan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;ML+Enthusiast;Logical+Designer;Believe+in+Yourself+✨" />
